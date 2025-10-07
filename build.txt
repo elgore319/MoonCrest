@@ -1,0 +1,7 @@
+displayName = Moon Crest
+author = elgore319
+version = 0.1
+tModLoaderVersion = 2022.09
+homepage = https://github.com/elgore319/MoonCrest
+description = A Terraria mod that adds lunar-themed content and mechanics.
+side = Both

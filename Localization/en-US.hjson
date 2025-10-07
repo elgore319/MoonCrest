@@ -1,0 +1,32 @@
+{
+	"Mods": {
+		"MoonCrest": {
+			"Items": {
+				"GelatinousCrystal": {
+					"DisplayName": "Gelatinous Crystal",
+					"Tooltip": "A mysterious crystal formed from the King Slime's essence\n'It pulses with otherworldly energy...'"
+				},
+				"StingerOfLife": {
+					"DisplayName": "Stinger of Life",
+					"Tooltip": "The Queen Bee's life force flows through this stinger\n+3 defense, +2 life regeneration\nImmunity to Poisoned\nChance to poison attackers"
+				},
+				"CthulhuHeart": {
+					"DisplayName": "Heart of Cthulhu",
+					"Tooltip": "The still-beating heart of the ancient cosmic entity\n+50 max mana, +10% magic damage\nProvides night vision and life regeneration\n'It pulses with unfathomable power...'"
+				},
+				"CosmicEye": {
+					"DisplayName": "Cosmic Eye",
+					"Tooltip": "A horrifying eye that gazes into the void\nSummons Cthulhu\nOnly usable after defeating the Wall of Flesh\n'It sees all, knows all...'"
+				}
+			},
+			"NPCs": {
+				"SpineOfCthulhu": {
+					"DisplayName": "Spine of Cthulhu"
+				},
+				"Cthulhu": {
+					"DisplayName": "Cthulhu"
+				}
+			}
+		}
+	}
+}
